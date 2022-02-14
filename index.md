@@ -1,6 +1,8 @@
 ## Gwenifer Ella Rockoff
 
-![picture](C:\\Users\Ben\Downloads\profile.jpg)
+![picture](file:///C:/Users/Ben/Downloads/profile.jpg)
+
+Test to see if a link works .[Test](https://youtube.com)
 
 You can use the [editor on GitHub](https://github.com/gwenro/gwenro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
