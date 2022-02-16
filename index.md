@@ -1,6 +1,10 @@
 ## Gwenifer Ella Rockoff
 
-![picture](file:///C:/Users/Ben/Downloads/profile.jpg)
+[picture](https://imgur.com/PXyIkWx.png)
+[picture](https://www.linkedin.com/in/benjamin-rockoff-7b225447)
+
+
+[picture](file:///C:/Users/Ben/Downloads/profile.jpg)
 
 Test to see if a link works .[Test](https://youtube.com)
 
